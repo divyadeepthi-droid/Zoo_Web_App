@@ -15,7 +15,7 @@ function Hero() {
         </p>
         <div className="hero-buttons">
           <Link to="/TicketsPage" className="btn btn-green">Plan Your Visit →</Link>
-          <Link to="/ContactPage" className="btn btn-outline">Explore Species</Link>
+          <a href="#" className="btn btn-outline">Explore Species</a>
         </div>
       </div>
       <div className="hero-scroll">

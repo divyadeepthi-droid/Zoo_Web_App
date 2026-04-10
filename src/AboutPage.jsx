@@ -1,8 +1,8 @@
-import { useState } from "react";
+
 import "./App.css";
-import WhiteTiger from "./assets/whiteTiger.jpg";
+import WhiteTiger from "./assets/WhiteTiger.jpg";
 import elephant14 from "./assets/elephant14.jpg";
-import macaw from "./assets/macaw.jpg";
+import Macaw from "./assets/Macaw.jpg";
 const TIMELINE = [
   {
     year: "1963",
@@ -42,7 +42,7 @@ const CONSERVATION = [
     desc: "Rehabilitating injured wildlife and returning them to the wild where possible.",
   },
   {
-    img: macaw,
+    img: Macaw,
     title: "Avian Sanctuary",
     desc: "Protecting rare and species through carefully managed aviaries and nest tracking.",
   },
