@@ -910,9 +910,8 @@
     .an-cta-btns      { flex-direction: column; }
     .an-stats-bar     { justify-content: center; gap: 20px; }
   }
-;
-  
 
+  
   :root {
     --green:       #4CAF50;
     --green-dark:  #2e7d32;
@@ -1239,7 +1238,7 @@
   @media (max-width: 480px) {
     .tp-ticket-right { flex-direction: column; align-items: flex-end; gap: 6px; }
   }
-;
+
   
 
   :root {
@@ -1632,7 +1631,7 @@
     .ev-newsletter-submit { border-radius: 0 0 10px 10px; }
     .ev-newsletter { margin: 0 16px clamp(32px,5vw,48px); }
   }
-;
+
   
 
   :root {
@@ -1905,7 +1904,7 @@
     .gl-nl-input { border-right: 1.5px solid #e8e8e8; border-radius: 10px 10px 0 0; border-bottom: none; }
     .gl-nl-btn   { border-radius: 0 0 10px 10px; }
   }
-;
+
 
 
 
