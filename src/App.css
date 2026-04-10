@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@300;400;500;600&display=swap');
 
+
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
   html {
@@ -378,7 +379,6 @@
   }
 
 
-  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@300;400;500;600&display=swap');
 
   /* ── About Page vars ── */
   :root {
@@ -633,7 +633,7 @@
     .ab-tl-card { padding: 14px 16px; }
   }
 
-  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@300;400;500;600&display=swap');
+  
 
   :root {
     --green:       #4CAF50;
@@ -911,7 +911,7 @@
     .an-stats-bar     { justify-content: center; gap: 20px; }
   }
 ;
-  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@300;400;500;600&display=swap');
+  
 
   :root {
     --green:       #4CAF50;
@@ -1240,7 +1240,7 @@
     .tp-ticket-right { flex-direction: column; align-items: flex-end; gap: 6px; }
   }
 ;
-  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@300;400;500;600&display=swap');
+  
 
   :root {
     --green:       #4CAF50;
@@ -1633,7 +1633,7 @@
     .ev-newsletter { margin: 0 16px clamp(32px,5vw,48px); }
   }
 ;
-  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@300;400;500;600&display=swap');
+  
 
   :root {
     --green:       #4CAF50;
@@ -1907,7 +1907,7 @@
   }
 ;
 
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@300;400;500;600&display=swap');
+
 
   :root {
     --green:        #4CAF50;
